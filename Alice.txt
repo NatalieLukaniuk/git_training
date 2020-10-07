@@ -5,3 +5,4 @@ adding some new line
 
 let's add fourth line
 
+some more text
